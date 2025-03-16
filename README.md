@@ -1,3 +1,5 @@
+Charle8.com
+
 Overview
 
 This project showcases the complete design and deployment of a static website on AWS using Terraform, from the ground up. It was inspired by and evolved from my work on charle8.com, but rebuilt as a structured, fully automated Infrastructure as Code (IaC) solution. The purpose of this project is to demonstrate how to host a static website securely, efficiently, and repeatably on AWS without manual console work — using Terraform to orchestrate every step of the deployment.
